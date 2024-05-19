@@ -219,7 +219,7 @@ Community e.g. other mentees
 Support system in ongoing development according to identified need
 
 **I'm applying for LFX and am interested in a project, but am stuck on next steps. What should I do?**
-[Looking through the projects] (link needed) will highlight suggested skills, so hopefully, something in this resource will match your skillset.
+[Looking through the projects] (https://mentorship.lfx.linuxfoundation.org/#projects_all) will highlight suggested skills, so hopefully, something in this resource will match your skillset.
 
 Each project has a link to a corresponding GitHub issue, so if you see something interesting, use this to reach out to the relevant project Maintainers. This will help you both get a sense of your suitability and what is needed to progress.
 
